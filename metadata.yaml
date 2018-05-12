@@ -1,0 +1,27 @@
+_repo: Eighty-fourth-Regiment-Pennsylvania-Volunteers--Infantry.-_46344
+_version: 0.1.0
+alternative_title: 84th Regiment, Pennsylvania Volunteers (Infantry.)
+covers:
+- cover_type: archival
+  image_path: 46344-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merchant, Thomas Edward
+    gutenberg_agent_id: '43733'
+    url: http://www.gutenberg.org/2009/agents/43733
+description: ''
+gutenberg_issued: '2014-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 84th (1861-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Pennsylvania Infantry -- 84th'
+- !lcc 'E456'
+title: Eighty-fourth Regiment, Pennsylvania Volunteers (Infantry.)
+url: http://www.gutenberg.org/ebooks/46344
